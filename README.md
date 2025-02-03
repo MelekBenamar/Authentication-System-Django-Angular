@@ -39,7 +39,7 @@ Ensure you have the following installed:
 1. Clone the project repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MelekBenamar/Authentication-System-Django-Angular
    ```
 
 2. Create a virtual environment and activate it:
